@@ -1,3 +1,4 @@
-Esto es un archivo de práctica del curso de platzi de git y hithub
+Esto es un archivo de práctica del curso de platzi de git y hithub.
+Aprendiendo ando
 
-Así es
+Así es. yeah
