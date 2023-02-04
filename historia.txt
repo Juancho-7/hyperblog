@@ -3,4 +3,4 @@ Aprendiendo ando
 
 Así es. yeah
 
-Nuevo texto después de haber resetado fuertemente el repositorio.
+Nuevo texto después de haber resetado fuertemente el repositorio. Otra palabra.
