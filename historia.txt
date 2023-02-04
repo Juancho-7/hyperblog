@@ -2,3 +2,5 @@ Esto es un archivo de práctica del curso de platzi de git y hithub.
 Aprendiendo ando
 
 Así es. yeah
+
+Nuevo texto después de haber resetado fuertemente el repositorio.
